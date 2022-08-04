@@ -1,7 +1,7 @@
 # resume
 Scott Simon
 
-scottjsimon.com/portfolio | simon_phd@proton.me
+<https://scottjsimon.com/portfolio> | simon_phd@proton.me
 
 EDUCATION	
 University of North Texas
