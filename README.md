@@ -1,4 +1,4 @@
-# resume
+# resume text
 
 Scott Simon
 
