@@ -1,4 +1,4 @@
-# Resume plain text
+#Resume plain text
 
 Scott Simon
 
