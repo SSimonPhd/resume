@@ -4,34 +4,34 @@
 
 ## EDUCATION</br>
 
-University of North Texas
-PhD Information Science
+University of North Texas</br>
+PhD Information Science</br>
 December 2005 Denton, TX
 
-University of North Texas
-MS Information Technology
+University of North Texas</br>
+MS Information Technology</br>
 December 2002 Denton, TX
 
 ## CERTIFICATIONS</br>
 
-University of Texas
-Coding Boot Camp
+University of Texas</br>
+Coding Boot Camp</br>
 January 2023 Austin, TX
 
 ## SKILLS</br>
 
 PROGRAMING</br>
-HTML • CSS • JS
+HTML • CSS • JS</br>
 Python • Solidity • SQL
 
 TOOLS</br>
-VS Code • Git • JQuery
-Bootstrap • Node • MySQL MongoDB • Express • React
+VS Code • Git • JQuery • Bootstrap</br>
+Node • MySQL MongoDB • Express • React
 
 ## PROJECTS</br>
 
-• Dissertation on Information Theory
-• Information Architecture for Library of Texas
+• Dissertation on Information Theory</br>
+• Information Architecture for Library of Texas</br>
 • Full Stack Web Dev for U. North Texas, U. South Florida, & U. Texas Austin
 
 ## EXPERIENCE</br>
