@@ -26,7 +26,7 @@ Python • Solidity • SQL
 
 TOOLS</br>
 VS Code • Git • JQuery • Bootstrap</br>
-Node • MySQL MongoDB • Express • React
+Node • MySQL • MongoDB • Express • React
 
 ## PROJECTS</br>
 
