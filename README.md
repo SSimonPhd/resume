@@ -1,6 +1,6 @@
 # Scott Simon
 
-<https://scottjsimon.com/portfolio> | simon_phd@proton.me
+<https://simonphd.me> | simon_phd@proton.me
 
 ## EDUCATION</br>
 
