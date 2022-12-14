@@ -36,9 +36,9 @@ Node • MySQL • MongoDB • Express • React
 
 ## EXPERIENCE</br>
 
-### Blockchain Developer | Smart Contracts 2020 – current</br>
+### Web3 Developer | Blockchain 2020 – current</br>
 
-• Blockchain startup coding smart contracts for Web3, dApps, DeFi, DEXs, DAOs, ICOs, NFTS, etc.
+• Blockchain startup coding Web3, dApps, DeFi, DEXs, DAOs, ICOs, NFTS, etc.
 
 ### Cryptocurrency Specialist | FinTech 2020 – current</br>
 
