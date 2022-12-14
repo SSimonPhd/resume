@@ -36,7 +36,7 @@ Node • MySQL • MongoDB • Express • React
 
 ## EXPERIENCE</br>
 
-### Web3 Developer | Blockchain 2020 – current</br>
+### Web Developer | Blockchain 2020 – current</br>
 
 • Blockchain startup coding Web3, dApps, DeFi, DEXs, DAOs, ICOs, NFTS, etc.
 
@@ -44,7 +44,7 @@ Node • MySQL • MongoDB • Express • React
 
 • Investment portfolio management; technical analysis; trade strategies; in depth research in cryptocurrency market and blockchain technology.
 
-### Music Educator | eLearning Services</br>
+### Music Technologist | eLearning Services</br>
 
 Simon Music Services 2012 – 2022</br>
 • Music education services; in-person and online lessons (Zoom); music software, hardware, instruments (Pro Tools, Sibelius, Guitar Pro, Premiere Pro); performance services; and music consultation services.
