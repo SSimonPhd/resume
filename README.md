@@ -6,17 +6,14 @@
 
 University of North Texas</br>
 PhD Information Science</br>
-December 2005 Denton, TX
 
 University of North Texas</br>
 MS Information Technology</br>
-December 2002 Denton, TX
 
 ## CERTIFICATIONS</br>
 
 University of Texas</br>
 Coding Boot Camp</br>
-January 2023 Austin, TX
 
 ## SKILLS</br>
 
