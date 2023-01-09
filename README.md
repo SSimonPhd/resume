@@ -46,7 +46,7 @@ Node • MySQL • MongoDB • Express • React
 Simon Music Services 2013 – 2019</br>
 • Music education services; in-person and online lessons (Zoom); music software, hardware, instruments (Pro Tools, Sibelius, Guitar Pro, Premiere Pro); performance services; and music consultation services.
 
-### Technical Writer | Cloud Services</br>
+### Information Architect | Cloud Services</br>
 
 Infinitely Virtual 2011 – 2012</br>
 • Translated cloud-based technical architecture, hardware, and software specifics into functional white papers for business end-users.
