@@ -35,37 +35,37 @@ Node • MySQL • MongoDB • Express • React
 
 ### Web Developer | Blockchain 2020 – current</br>
 
-• Blockchain startup coding coding apps on Ethereum EVM 
+• Blockchain startup coding coding apps on Ethereum EVM</br> 
 • Web3, dApps, DeFi, DEXs, DAOs, ICOs, NFTS, etc.
 
 ### Cryptocurrency Specialist | FinTech 2020 – current</br>
 
-• Investment portfolio management; technical analysis; trade strategies 
-• In depth research in cryptocurrency market and blockchain technology.
+• Investment portfolio management; technical analysis; trade strategies</br> 
+• In depth research in cryptocurrency market and blockchain technology
 
 ### Music Technologist | eLearning Services</br>
 
 Simon Music Services 2013 – 2019</br>
-• Music education services; in-person and online lessons (Zoom) 
-• Music software, hardware, instruments (Pro Tools, Sibelius, Guitar Pro, Premiere Pro) 
+• Music education services; in-person and online lessons (Zoom)</br> 
+• Music software, hardware, instruments (Pro Tools, Sibelius, Guitar Pro, Premiere Pro)</br> 
 • Performance services; and music consultation services.
 
 ### Information Architect | Cloud Services</br>
 
 Infinitely Virtual 2011 – 2012</br>
-• Translated cloud-based technical architecture, hardware, and software specifics
+• Translated cloud-based technical architecture, hardware, and software specifics</br>
 • Functional white papers and documentation for business end-users
 
 ### Professor | School of Information</br>
 
 University of South Florida 2006-2011</br>
-• Graduate-level teaching, research, service 
-• In-person and online courses built using Canvas CMS
+• Graduate-level teaching, research, service</br> 
+• In-person and online courses built using Canvas CMS</br>
 • included Web Development, Information Architecture, Music Information Services
 
 ### Oracle PeopleSoft Portal | Systems Manager</br>
 
 University of North Texas | Central Web Support 2005-2006</br>
-• Oracle PeopleSoft Portal management & administration 
-• Full stack web development, object-oriented programming 
+• Oracle PeopleSoft Portal management & administration</br> 
+• Full stack web development, object-oriented programming</br> 
 • MySQL database; supporting 40,000+ users including students, faculty, and staff
