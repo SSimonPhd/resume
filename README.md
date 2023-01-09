@@ -45,14 +45,14 @@ Node • MySQL • MongoDB • Express • React
 
 ### Music Technologist | eLearning Services</br>
 
-Simon Music Services 2013 – 2019</br>
+Simon Music Services 2014 – 2019</br>
 • Music education services; in-person and online lessons (Zoom)</br> 
 • Music software, hardware, instruments (Pro Tools, Sibelius, Guitar Pro, Premiere Pro)</br> 
 • Performance services; and music consultation services.
 
 ### Information Architect | Cloud Services</br>
 
-Infinitely Virtual 2011 – 2012</br>
+Infinitely Virtual 2012 – 2013</br>
 • Translated cloud-based technical architecture, hardware, and software specifics</br>
 • Functional white papers and documentation for business end-users
 
