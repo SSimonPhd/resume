@@ -61,7 +61,7 @@ Infinitely Virtual 2012 – 2013</br>
 University of South Florida 2006-2011</br>
 • Graduate-level teaching, research, service</br> 
 • In-person and online courses built using Canvas CMS</br>
-• included Web Development, Information Architecture, Music Information Services
+• Web Development, Information Architecture, Music Information Services
 
 ### Systems Manager | Oracle PeopleSoft Portal</br>
 
