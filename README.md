@@ -36,12 +36,14 @@ Node • MySQL • MongoDB • Express • React
 ### Web Developer | Blockchain 2020 – current</br>
 
 • Blockchain startup coding coding apps on Ethereum EVM</br> 
-• Web3, dApps, DeFi, DEXs, DAOs, ICOs, NFTS, etc.
+• Web3, dApps, DeFi, DEXs, DAOs, ICOs, NFTS, etc.</br>
+• Hardhat, Truffle Suite, Ethers.js, Open Zeppelin, Solidity, Node, React
 
-### Cryptocurrency Specialist | FinTech 2020 – current</br>
+### DeFi Specialist | FinTech 2020 – current</br>
 
-• Investment portfolio management; technical analysis; trade strategies</br> 
-• In depth research in cryptocurrency market and blockchain technology
+• DeFi investment portfolio management; technical analysis; trade strategies</br> 
+• In depth research in cryptocurrency market and blockchain technology</br>
+• Latest apps including Aave, Uniswap, MetaMask, Ledger
 
 ### Music Technologist | eLearning Services</br>
 
