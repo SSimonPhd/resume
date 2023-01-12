@@ -63,7 +63,7 @@ University of South Florida 2006-2011</br>
 • In-person and online courses built using Canvas CMS</br>
 • included Web Development, Information Architecture, Music Information Services
 
-### Oracle PeopleSoft Portal | Systems Manager</br>
+### Systems Manager | Oracle PeopleSoft Portal</br>
 
 University of North Texas | Central Web Support 2005-2006</br>
 • Oracle PeopleSoft Portal management & administration</br> 
