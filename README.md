@@ -35,7 +35,7 @@ Node • MySQL • MongoDB • Express • React
 
 ### Web Developer | Blockchain 2020 – current</br>
 
-• Blockchain startup coding coding apps on Ethereum EVM</br> 
+• Blockchain startup coding apps on Ethereum EVM</br> 
 • Web3, dApps, DEXs, DAOs, ICOs, Smart Contracts</br>
 • Hardhat, Truffle Suite, Ethers.js, Open Zeppelin, Solidity, Node, React
 
