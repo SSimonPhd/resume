@@ -1,4 +1,5 @@
-# Scott Simon Austin, TX | 512-410-9622 | <mailto: simon_phd@proton.me/> | LinkedIn: <https://linkedin.com/in/scottsimon/> | GitHub: <https://github.com/SSimonPhd/> | Portfolio: <https://simonphd.me/>
+# Scott Simon 
+## Austin, TX | 512-410-9622 | <simon_phd@proton.me/> | LinkedIn: <https://linkedin.com/in/scottsimon/> | GitHub: <https://github.com/SSimonPhd/> | Portfolio: <https://simonphd.me/>
 
 SUMMARY 
 PhD in Information Science × Philosophy × Musicology specializing in AI ethical annotation, multimodal curation, and symbolic systems. Leveraged research in info theory and music semiotics for AI data labeling, including audio-text alignment and red-teaming. Applied symbolic cognition to DeFi protocol analysis, informing AI ethics in decentralized systems. DeFi native (Aave power user since 2021, managing over-collateralized position), UT Austin bootcamp 2023 grad, lifelong classical guitarist. Remote-only; available for flexible expert work in AI training/annotation (humanities/multimodal), ethics evaluation, or crypto tech writing/support.
