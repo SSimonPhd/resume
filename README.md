@@ -2,11 +2,11 @@
 ### Austin, TX | simon_phd@proton.me | LinkedIn: <https://linkedin.com/in/scottsimon/> | GitHub: <https://github.com/SSimonPhd/> | Portfolio: <https://simonphd.me/>
 
 ## SUMMARY <br/>
-PhD in Information Science × Philosophy × Musicology specializing in AI ethical annotation, multimodal curation, and symbolic systems. Leveraged research in info theory and music semiotics for AI data labeling, including audio-text alignment and red-teaming. Applied symbolic cognition to DeFi protocol analysis, informing AI ethics in decentralized systems. DeFi native (Aave power user since 2021, managing over-collateralized position), UT Austin bootcamp 2023 grad, lifelong classical guitarist. Remote-only; available for flexible expert work in AI training/annotation (humanities/multimodal), ethics evaluation, or crypto tech writing/support.
+PhD in Information Science (ethics, symbolic systems, philosophy, musicology) currently contributing as AI Safety Red Teamer (contract) at Mercor, conducting model output comparisons and RLHF flagging to identify biases and vulnerabilities. Specialize in ethical AI annotation, multimodal curation, and red-teaming. Leveraged research in information theory and music semiotics for data labeling, audio-text alignment, and prompt evaluation. Applied symbolic cognition to DeFi protocol analysis (Aave/Compound since 2020), informing AI ethics in decentralized systems. DeFi native (Aave power user, managing over-collateralized position), UT Austin coding bootcamp 2023 graduate, lifelong classical guitarist. Remote-only; available for flexible expert work in AI safety/red-teaming, ethics evaluation, multimodal annotation, or crypto/DeFi specialist support. Rate $40–200/hr depending on complexity.
 
 ## SKILLS <br/>
-AI/Data: Ethical Labeling, Multimodal Curation, Red-Teaming, Audio-Text Alignment, Cultural Datasets, Symbolic Systems Analysis <br/> 
-Crypto: Protocol Analysis, Portfolio Management
+AI & Data: AI Safety Red Teaming & Bias Detection, Ethical Labeling & RLHF Annotation, Multimodal Curation & Audio-Text Alignment, Prompt Evaluation & Model Output Comparison, Symbolic Systems Analysis & Cultural Datasets
+Crypto/DeFi: Protocol Red-Teaming & Incentive Analysis (Aave, Compound), Portfolio Management & Risk Assessment
 
 ## EXPERIENCE <br/>
 AI Safety Red Teamer | Mercor | Jan 2026 - Present <br/> 
@@ -32,5 +32,4 @@ Professor | School of Information | University of South Florida | Tampa, FL | 20
 ## EDUCATION <br/>
 PhD, Information Science | University of North Texas | Denton, TX | December 2005 <br/>
 MS, Information Technology | University of North Texas | Denton, TX | December 2002 <br/>
-Coding Boot Camp Certificate | University of Texas | Austin, TX | January 2023 <br/>
 (Publications list available on LinkedIn)
