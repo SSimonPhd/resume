@@ -12,7 +12,7 @@ Crypto/DeFi: Protocol Red-Teaming & Incentive Analysis (Aave, Compound), Portfol
 AI Safety Red Teamer | Mercor | Jan 2026 - Present <br/> 
 • Conduct model output comparisons and task flagging for RLHF annotations in AI safety project, identifying biases and vulnerabilities using SuperAnnotate platform. <br/>
 • Apply ethical red-teaming expertise from production DeFi protocols (Aave, Compound) to evaluate AI responses for threat intelligence and safety risks in asynchronous, remote environment. <br/>
-• Leverage PhD in ethics/symbolic systems, multimodal curation (audio-text alignment from music technology), and graduate-level prompt evaluation experience to provide actionable feedback on model behavior for advanced AI development. <br/>
+• Leverage PhD in ethics/symbolic systems, multimodal curation (audio-text alignment from music technology), and graduate-level prompt evaluation to provide actionable feedback on model behavior for advanced AI development. <br/>
 
 DeFi Specialist | Independent Investor | 2020 – Present <br/>
 • Managed over-collateralized Aave positions with technical analysis, applying info theory to evaluate protocols ethically for decentralized systems. <br/>
