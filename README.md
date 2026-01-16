@@ -14,12 +14,12 @@ AI Safety Red Teamer | Mercor | Jan 2026 - Present <br/>
 • Apply ethical red-teaming expertise from production DeFi protocols (Aave, Compound) to evaluate AI responses for threat intelligence and safety risks in asynchronous, remote environment. <br/>
 • Leverage PhD in ethics/symbolic systems, multimodal curation (audio-text alignment from music technology), and graduate-level prompt evaluation experience to provide actionable feedback on model behavior for advanced AI development. <br/>
 
-DeFi Specialist | FinTech | 2020 – Present <br/>
+DeFi Specialist | Independent Investor | 2020 – Present <br/>
 • Managed over-collateralized Aave positions with technical analysis, applying info theory to evaluate protocols ethically for decentralized systems. <br/>
 • Developed trade strategies through market research, focusing on structural critiques transferable to AI ethics/ideology annotation. <br/>
 • Utilized apps (Aave, Uniswap, MetaMask, Ledger) for portfolio optimization, informing symbolic data curation in AI contexts. <br/>
 
-Music Technologist | eLearning Services | 2011 – 2021 <br/>
+Music Technologist | Simon Music Services | 2011 – 2021 <br/>
 • Delivered music education via in-person/online (Zoom), curating semiotics/aesthetics content—applied to AI audio-text alignment/emotion labeling. <br/>
 • Used software/hardware (Pro Tools, Sibelius, Guitar Pro) for performance/research, informing multimodal data curation in symbolic systems. <br/>
 • Provided consultation on musical structures, breaking down interpretations akin to AI prompt evaluation/red-teaming. <br/>
